@@ -74,14 +74,13 @@ body {
 .why-web-section {
   margin: 0 105px;
   max-width: 1004px;
-  height: 863px;
+  height: 663px;
   margin-bottom: 63px;
 }
 
 .why-web-container {
   margin: 56px 67px;
   max-width: 1004px;
-  height: 770px;
 }
 
 .why-web-header h1 {
@@ -127,4 +126,36 @@ body {
   height: 32px;
   border: 1px solid black;
   opacity: 0.7;
+}
+
+/* inspiration section */
+.inspiration-container {
+  max-width: 1004px;
+  height: 542px;
+  margin: 63px 105px 105px 105px;
+}
+
+.inspiration-text {
+  padding: 0 100px;
+}
+
+.inspiration-text h1 {
+  text-align: center;
+  font-size: 22px;
+  font-weight: 800;
+  margin-bottom: 16px;
+}
+
+.inspiration-text p {
+  opacity: 0.7;
+  text-align: center;
+  font-size: 11px;
+  font-weight: 400;
+  margin-bottom: 33px;
+}
+
+.inspiration-video {
+  max-width: 1004px;
+  padding: 0 130px 0 70px;
+  border-radius: 11px;
 }
