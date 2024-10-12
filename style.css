@@ -157,5 +157,6 @@ body {
 .inspiration-video {
   max-width: 1004px;
   padding: 0 126px 0px 70px;
+  margin-bottom: 105px;
   border-radius: 11px;
 }
