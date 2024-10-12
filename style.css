@@ -9,7 +9,6 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  max-width: 1004px;
 }
 
 /*introduction styling */
@@ -69,4 +68,34 @@ body {
   background: rgb(13, 19, 33);
   margin-bottom: 31px;
   margin-left: 418px;
+}
+
+/* why web section */
+.why-web-section {
+  border: 2px solid red;
+  margin: 0 105px;
+  max-width: 1004px;
+  height: 863px;
+  margin-bottom: 63px;
+}
+
+.why-web-container {
+  border: 2px solid green;
+  margin: 56px 67px;
+  max-width: 1004px;
+  height: 750px;
+}
+
+.why-web-header h1 {
+  text-align: center;
+  font-size: 22px;
+  font-weight: 800;
+  padding-top: 16px;
+}
+
+.why-web-header p {
+  text-align: center;
+  opacity: 0.7;
+  font-size: 11px;
+  font-weight: 400;
 }
