@@ -335,3 +335,18 @@ body {
   font-size: 14px;
   font-weight: 600;
 }
+
+/* footer section */
+.commitment-section {
+  max-width: 1004px;
+  height: 70px;
+  padding: 56px 105px;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 16px;
+  background: rgba(13, 19, 33, 0.03);
+}
+
+.commitment-section a {
+  padding-left: 10px;
+}
