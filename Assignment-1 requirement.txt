@@ -1,2 +1,10 @@
+main marking:
+
 1. lorem ispun can not used in project
 2. any css framework can not be used in project
+
+bonus marking:
+1. footer created with 3 icon clickable to their original website--facebook,github,linkedin.
+2. contact with me button in banner section will take you to the footer section.
+3. minimum 5 meaningful commit in GitHub must
+  
